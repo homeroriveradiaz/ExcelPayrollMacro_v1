@@ -6,10 +6,10 @@ It can be re-used however, and could help as a reference or base for another pro
 
 For reference, the data used in the sample Excel files is available at https://www.thespreadsheetguru.com/sample-data/, however I did a few adjustments to that file, thus using the file from https://www.thespreadsheetguru.com/sample-data/ won't work with this Macro; You'll have to use the files in this repo.
 
-##Pre-requisites:
+:::::::::::::: Pre-requisites :::::::::::::::
 -MS Excel, 2007 and later most recommended, but could work with earlier versions.
 
-##Instructions to use:
+:::::::::::::: Instructions to use ::::::::::::::
 1. Create folder C:\temp\Excel examples\ and save all files in this repo to that folder.
 You can use another folder by changing lines of code 59 and 68 (basically, changing any references to "C:\temp\Excel examples\").
 2. Open the file "Employee Sample Data.xlsx", create a Macro, edit it, and paste MacrosCode.vb in its place.
