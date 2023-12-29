@@ -3,8 +3,8 @@
 About the code:
 This is to demonstrate features of of VBA for MS Excel; The code is not efficient and  was never meant to be.
 It could be re-used or it could help as a reference for another project.
-The data used in the sample Excel files is available at https://www.thespreadsheetguru.com/sample-data/
-You'll have to use the files in this repo for the code to work, because I did some tweaking to the file from thespreadsheetguru.com
+The data used in the sample Excel files was taken from https://www.thespreadsheetguru.com/sample-data/
+You have to use the files in this repo for the code to work, because I did some tweaking to the file from thespreadsheetguru.com
 
 Pre-requisites:
 MS Excel, 2007 and later most recommended. Earlier could work but can't guarantee.
