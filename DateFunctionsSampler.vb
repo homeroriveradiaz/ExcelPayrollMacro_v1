@@ -1,8 +1,4 @@
 
-
-
-
-
 Function Todays()
     Todays = Date
 End Function
